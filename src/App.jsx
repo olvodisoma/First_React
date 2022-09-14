@@ -10,7 +10,7 @@ function App(){
             <div className='row'>
                 <h1 className='w-100 text-center'>My first react app</h1>
             </div>
-            <div className="row">
+            <div className="row justify-content-center">
                 <Counter/>
                 <Toggle/>
                 <Todo/>
