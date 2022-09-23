@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/olvodisoma/First_React.git/static/css/main.65f66d58.css",
+    "main.js": "/olvodisoma/First_React.git/static/js/main.93b5aa6a.js",
+    "index.html": "/olvodisoma/First_React.git/index.html",
+    "main.65f66d58.css.map": "/olvodisoma/First_React.git/static/css/main.65f66d58.css.map",
+    "main.93b5aa6a.js.map": "/olvodisoma/First_React.git/static/js/main.93b5aa6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65f66d58.css",
+    "static/js/main.93b5aa6a.js"
+  ]
+}
